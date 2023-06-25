@@ -25,7 +25,7 @@ export const Hero = () => {
     <Grid container>
     <Grid container xs={12} sx={{mt:'3rem',mb:'1rem',justifyContent:'center'}}>
     <Typography variant='h4'>
-    How We Find The People Around Us With Similar Test Of Music  
+    Connect with music enthusiasts near you who share your taste in music.  
     </Typography> 
     </Grid>
     <Grid item sx={12} md={6}>

@@ -47,7 +47,7 @@ export const LeftMainHero = () => {
     </Grid>
     <Grid item xs={12}md={12} sx={{pl:'3rem ',pr:'3 rem',mb:'2.5rem',alignItems:'center',alignContent:'center'}}>
     <Typography variant='subtile'>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum vel magna ut gravida. Maecenas id blandit lacus. Fusce eleifend sodales augue, sit amet scelerisque velit dictum sit amet. Vivamus eget diam venenatis, dapibus orci id, pellentesque dui. Suspendisse accumsan metus nec lorem maximus condimentum. Morbi ornare interdum varius. Quisque sed sem sapien. Phasellus non mauris blandit, ullamcorper ipsum vitae, posuere turpis. Suspendisse potenti.
+    Welcome to our innovative video chat platform where you can join others who are currently listening to the same songs as you. Immerse yourself in a shared music experience and connect with like-minded individuals from around the world in real time. Whether you're a fan of the latest chart-toppers, indie hits, or timeless classics, you'll find a community of music lovers eager to discuss, appreciate, and enjoy music together.
     </Typography>
    
     <Box component='form' onSubmit={handleSubmit} noValidate sx={{ maxWidth: '80%', mt:'2.5rem',mr:"2rem"}}>

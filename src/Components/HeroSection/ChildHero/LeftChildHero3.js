@@ -6,10 +6,10 @@ export const LeftChildHero3 = () => {
     <>
      <Grid sx={{mt:'3rem',mb:'3rem'}}>
     <Typography variant='h5'component='div' align='center'sx={{pt:'20px',pb:'10px',ml:'4rem'}}>
-       Step Three
+    Step 3: Connect through Video Calls
     </Typography>
     <Typography variant='subtitle' component='div' align='center' sx={{pt:'20px',pb:'10px',ml:'4rem'}} >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum vel magna ut gravida. Maecenas id blandit lacus. Fusce eleifend sodales augue, sit amet scelerisque velit dictum sit amet. Vivamus eget diam venenatis, dapibus orci id, pellentesque dui. Suspendisse accumsan metus nec lorem maximus condimentum.
+    Engage in live video conversations with fellow music enthusiasts who are listening to the same song, allowing you to discuss the music, share your thoughts, and form connections with people from around the world.
     </Typography>
     </Grid>
     </>

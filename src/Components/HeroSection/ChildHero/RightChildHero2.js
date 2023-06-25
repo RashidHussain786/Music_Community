@@ -6,10 +6,10 @@ export const RightChildHero2 = () => {
     <>
      <Grid sx={{mt:'3rem',mb:'3rem'}}>
     <Typography variant='h5'component='div' align='center'sx={{pt:'20px',pb:'10px',mr:'4rem'}}>
-       Step Two
+    Step 2: Discover Similar Music Listeners
     </Typography>
     <Typography variant='subtitle' component='div' align='center' sx={{pt:'20px',pb:'10px',mr:'4rem'}} >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum vel magna ut gravida. Maecenas id blandit lacus. Fusce eleifend sodales augue, sit amet scelerisque velit dictum sit amet. Vivamus eget diam venenatis, dapibus orci id, pellentesque dui. Suspendisse accumsan metus nec lorem maximus condimentum. Morbi ornare interdum varius.
+    Instantly discover other users who are currently tuned in to the same song, creating an opportunity to connect with like-minded individuals who share your musical taste.
     </Typography>
     </Grid>
     
