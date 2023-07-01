@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "devStart": "nodemon index.js",
+    "build":"npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
